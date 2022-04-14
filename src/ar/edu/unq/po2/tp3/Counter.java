@@ -12,7 +12,7 @@ public class Counter {
 
 	public int contarImpares() {
 		int imparesVistos = 0;
-		for(int i=0; i<longitudDeLista(); i++) {
+		for(int i = 0; i<longitudDeLista(); i++) {
 			if (esImpar(i)) {
 				imparesVistos++;
 			}
@@ -35,13 +35,27 @@ public class Counter {
 	}
 
 	private boolean esPar(int i) {
-		return this.numeros.get(i)%2==0;
+		return this.numeros.get(i) % 2 == 0;
 	}
 	
 	private boolean esImpar(int i) {
 		return !(esPar(i));
 	}
 
+	public int cantidadDeMultiplosDe(int q) {
+		int multiplosVistos = 0;
+		for(int i = 0; i<longitudDeLista(); i++) {
+			if (esMultiploDe(i, q)) {
+				multiplosVistos++;
+			}
+		}
+		return multiplosVistos;
+	}
+
+	private boolean esMultiploDe(int num1, int num2) {
+		return (num1 % num2 == 0);
+	}
+	
 }
 
 /*

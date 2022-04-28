@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2efe8775-f52c-4603-b0a3-675c4532ba6d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ar/edu/unq/po2/tp3/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/unq/po2/tp3/Ej1Contadores/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ar/edu/unq/po2/tp3/CounterTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ar/edu/unq/po2/tp3/Ej1Contadores/CounterTestCase.java" afterDir="false" />
-    </list>
+    <list default="true" id="2efe8775-f52c-4603-b0a3-675c4532ba6d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,13 +19,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Julian/git/unqui-po2-villarroel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Julian/git/unqui-po2-villarroel&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

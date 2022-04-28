@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 
 
 
-public class DesarmandoNumerosTest {
+public class DesarmandoNumerosTestCase {
 	
 	private static boolean esPar(int numero) {
 		

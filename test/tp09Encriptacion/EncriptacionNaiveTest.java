@@ -1,14 +1,9 @@
-package tp04EncriptacionTestCase;
+package tp09Encriptacion;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import tp09Encriptacion.CambiarPorNumero;
-import tp09Encriptacion.CambiarVocal;
-import tp09Encriptacion.EncriptadorNaive;
-import tp09Encriptacion.EstrategiaDeEncriptar;
 
 class EncriptacionNaiveTest {
 
